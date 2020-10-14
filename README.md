@@ -1,5 +1,3 @@
-<h2>Hi there 👋</h2>
-
 <h3>About Me </h3>
 
 - Currently studying Computer Science.
