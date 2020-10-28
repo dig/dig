@@ -1,7 +1,7 @@
 <h3>About Me </h3>
 
 - Currently studying Computer Science.
-- Learning more about Cloud Architecture and Game Development.
+- Learning more about Cloud Architecture, Testing, and Game Development.
 
 <h3>Stack</h3>
 
