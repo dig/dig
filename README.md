@@ -2,7 +2,6 @@
 
 - Currently studying Computer Science.
 - Learning more about Cloud Architecture, Testing, and Game Development.
-- [A quote.](https://twitter.com/visualizevalue/status/1336690291663908867)
 
 <h3>Stack</h3>
 
