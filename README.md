@@ -2,7 +2,7 @@
 
 - Currently studying Computer Science.
 - Learning more about Cloud Architecture, Testing and Game Development.
-- Interested in Space, Stock Market and Virtual Reality.
+- Interested in Programming, Marketing and Space.
 
 <h3>Stack</h3>
 
