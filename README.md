@@ -1,8 +1,8 @@
 <h3>About Me </h3>
 
-- Currently studying Computer Science.
+- Computer Science graduate.
 - Learning more about Cloud Architecture, Testing and Game Development.
-- Interested in Programming, Marketing and Space.
+- Interested in Programming, Marketing, and Space.
 
 <h3>Stack</h3>
 
