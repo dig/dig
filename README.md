@@ -1,7 +1,7 @@
 <h3>About Me </h3>
 
 - Computer Science graduate.
-- Interested in Programming, and Marketing.
+- Interested in programming, and marketing.
 
 <h3>Stack</h3>
 
