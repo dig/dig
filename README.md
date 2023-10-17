@@ -1,8 +1,3 @@
-<h3>About</h3>
-
-- Computer Science graduate
-- Interested in programming, UGC gaming, and marketing
-
 <h3>Stack</h3>
 
 - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
